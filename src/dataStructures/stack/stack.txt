@@ -1,0 +1,18 @@
+Eleman Ekleme ve çıkarma işleminin dizinin son elamanına göre yapıldığı özel bir yapıdır .
+Yığın son giren ilk çıkar mantığı ile çalışır (Last In-First Out)
+Günlük Hayattan örnekler :
+1 -Mutfak rafındaki üst üste yerleştirilmiş tabaklar
+2 - Bir masa üzerine üst üste yerleştirilmiş kitaplar
+3 -Bir web tarayıcıda ileri-geri adres gezmek için stack yapısı kullanır.
+
+Java derleyicisi program kodunun tamamını postfix’e çevirirken stack
+kullanır.
+Java Virtual Machine (JVM) byte code’ları execute ederken altyapısında
+yine stack kullanır.
+Recursion ve function call işlemlerinin Bellekte gerçekleştirilmesinde
+stack kullanılır
+
+Mikroİşlemcinin içerisinde stack adı verilen özel bölgeler vardır .
+Push komutu bu özel bölgeye veri göndermek , pop komutu bu özel bölgeden veri almak için kullanılır.
+stackde search yapısında indexler yukarıdan aşağı doğru ve 1 den başlayarak devam eder.
+

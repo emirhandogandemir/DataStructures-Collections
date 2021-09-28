@@ -1,0 +1,22 @@
+Kuyruk eleman eklemelerin listenin sonundan , çıkarma işleminin listenin başından yapılır
+(FIFO)
+Ara elemanlara doğrudan erişim mümkün değildir .
+Kuyruğa ilk giren ilk çıkardan maksat : ilk giren hizmet alırdır.
+Günlük hayattan örnekler :
+Bir sinema gişesinden bilet almak için bekleyen insanlar
+Bir durakta otobüste binmek için bekleyen insanlar
+Kuyruğa eleman ekleme(enqueue) , kuyruktan eleman çıkarma (dequeue)
+Kuyruk yapıları doğrusal ve dairesel şekilde oluşturulabilirler .
+Java 1.5 sürümü ile birlikte kuyruk (Queue) işlemi için özel bir sınıf tanımlanmıştır .
+element() = Kuyruğun başındaki nesneyi döndürür ama silmez
+offer() = Yeni bir elemanı kuyruğun sonuna ekler
+peek() = Kuyruğun başındaki nesneyi döndürür ama silmez eğer boş ise null döndürür
+poll() = Kuyruğun başındaki elemanı çeker boş ise null
+remove() = kuyruk önündeki nesneyi siler ve döndürür
+size() = kuyruktaki eleman sayısını döndürür
+clear() = Kuyruktaki tüm elemanları siler
+
+---- Priority Queue ---
+Yapısında veri veya nesnelerin birer öncelik değeri vardır .
+Eleman ekleme ve silme işlemleri bu öncelik değerine bakılarak yapılır
+Kelimelerde alfabetik sıralamaya göre , sayısal değerlerde artan veya azalan değerlere göre
