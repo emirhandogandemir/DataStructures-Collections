@@ -1,0 +1,4 @@
+ Liste yapılarını arraylerden ayıran en önemli özellik , liste yapılarının boyutlarının önceden aarlanmış olmamasıdır .
+
+ LinkedList koleksiyon yapısı listenin sonuna veri ekleme , listenin başından veri çekme gibi bazı özelleştirilmiş metotlara sahiptir .
+ Bu özelliği sayesinde bağlı liste yapısı özelleştirilip kuyruk(queue) veya yığıt(Stack) yapısına dönüştürülebilir.
