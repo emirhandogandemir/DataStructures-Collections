@@ -1,0 +1,11 @@
+Set arayüzü , collection arayüzünü miras alır . Bu sınıfı matematikteki kümelere benzetebiliriz .
+Matematikte elemanlar kümeler içerisinde sıralı bir şekilde tutulmak zorunluluğu yoktur ve bir elemandan bir küme içerisinde yalnızca bir tane bulunabilir .
+Bu sınıf içinde durum aynen böyledir . Elemanlar sıralı bir biçimde tutulması gerekiyorsa SortedSet alt sınıfının ögesi TreeSet kullanılabilir .
+Set arayüzünün ögesi HashSettir.
+Set koleksiyonları tekrarlı eleman içermezler .
+TreeSet içerisinde :
+first() -> en küçük elemanı verir
+last() -> en büyük elemanı verir
+headSet() -> Koleksiyon ögesindeki toElementinden küçük olan elementleri verir
+subSet(param1, param2) -> param1 ve param2 arasındaki ögeleri verir .
+tailSet(param3) -> param3 ve param3 sonrasındaki elemanları geri verir

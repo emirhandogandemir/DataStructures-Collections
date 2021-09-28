@@ -1,7 +1,6 @@
-package dataStructures.stack;
+package dataStructuresAndCollections.stack;
 
-import dataStructures.stack.array.StackArray;
-import dataStructures.stack.linkedList.Stack;
+import dataStructuresAndCollections.stack.linkedList.Stack;
 
 public class Main {
     public static void main(String[] args) {

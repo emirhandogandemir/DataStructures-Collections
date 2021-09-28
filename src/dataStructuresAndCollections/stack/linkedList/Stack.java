@@ -1,4 +1,4 @@
-package dataStructures.stack.linkedList;
+package dataStructuresAndCollections.stack.linkedList;
 
 public class Stack {
     private StackNode ust;

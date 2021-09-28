@@ -1,4 +1,4 @@
-package dataStructures.stack.array;
+package dataStructuresAndCollections.stack.array;
 
 public class StackArray {
 

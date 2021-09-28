@@ -1,4 +1,4 @@
-package dataStructures.queue;
+package dataStructuresAndCollections.queue;
 
 
 

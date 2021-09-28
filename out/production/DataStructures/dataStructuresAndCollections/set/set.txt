@@ -1,0 +1,4 @@
+Set arayüzü , collection arayüzünü miras alır . Bu sınıfı matematikteki kümelere benzetebiliriz .
+Matematikte elemanlar kümeler içerisinde sıralı bir şekilde tutulmak zorunluluğu yoktur ve bir elemandan bir küme içerisinde yalnızca bir tane bulunabilir .
+Bu sınıf içinde durum aynen böyledir . Elemanlar sıralı bir biçimde tutulması gerekiyorsa SortedSet alt sınıfının ögesi TreeSet kullanılabilir .
+Set arayüzünün ögesi HashSettir.
