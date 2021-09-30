@@ -2,4 +2,4 @@ Java Koleksiyonları bir veya birden çok nesneyi bir arada tutmak için gelişt
 
 Java bkoleksiyonları ile nesnelerinizi sıralayabilir, ekleyebilir, silebilir, sıralayabilir v e istediğiniz nesneye ulaşabilirsiniz.
 Koleksiyon ögelerini tanımlarken tip belirtmediğimizde elemanlar koleksiyon ögeleri içerisine nesne olarak depolanırlar .
-Java'daki Koleksiyon, nesne grubunu depolamak ve işlemek için bir mimari sağlayan bir çerçevedir.
+Java'daki Koleksiyon, nesne grubu depolamak ve işlemek için bir mimari sağlayan bir çerçevedir.

@@ -1,0 +1,3 @@
+Map arayüzü collection arayüzünün bir parçası değildir .Bu arayüz elemanları key , value şeklinde saklar .
+Anahtar değerler arasında kopya eleman bulundurmaya izin vermez . elemanlar arasında kopya elemanlar bulunabilir .
+HashMapden çekilen verilerin sırası belirsizdir .
